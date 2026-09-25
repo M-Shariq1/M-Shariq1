@@ -1,18 +1,88 @@
-# 💫 About Me:
-### Hi there, I'm Shariq 👋<br><br>🎓 BSCS student at Minhaj University Lahore<br>💻 Learning C++, exploring OOP concepts, web fundamentals, and SQL<br>🔭 Currently working on OOP-based problem solving, shape hierarchies, and banking system projects<br>🌱 Building strong Computer Science fundamentals while continuously improving my programming skills<br>🎯 Interested in Software Development, Databases, and Problem Solving<br>⚡ Fun fact: I like solving problems the hard way first before looking up the solution<br><br>### 🛠️ Tech Stack<br><br>* C++<br>* Python<br>* JavaScript<br>* HTML<br>* CSS<br>* MySQL<br>* Git & GitHub<br>* Canva<br><br>### 📚 Currently Learning<br><br>* Object-Oriented Programming (OOP)<br>* Data Structures & Algorithms<br>* Database Design<br>* Web Development Fundamentals<br>* SQL<br><br>### 🚀 Goals<br><br>* Build practical software projects<br>* Master OOP and Data Structures<br>* Contribute to open-source projects<br>* Develop strong problem-solving skills<br>* Continue growing as a Computer Science student<br><br>### 💡 Favorite Quote<br><br>"The best way to learn programming is to build things and keep improving them."<br>
+# Hi, I'm Shariq 👋
 
-
-## 🌐 Socials:[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574650575637) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itx_ali.saeed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alisaeedse1@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=M-Shariq1&theme=darkhub)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=M-Shariq1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=M-Shariq1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=M-Shariq1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 **BSCS Student** at Minhaj University Lahore  
+💻 Learning **C++, Python, JavaScript, HTML/CSS, SQL, and Git/GitHub**  
+🧠 Focused on building strong **Computer Science fundamentals**  
+🔭 Currently practicing **OOP, Data Structures & Algorithms, Database Design, and Problem Solving**  
+🚀 Interested in **Software Development, Databases, and practical projects**
 
 ---
-[![](https://komarev.com/ghpvc/?username=M-Shariq1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🛠️ Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Database Design & SQL
+- Web Development Fundamentals
+- Python
+- Git & GitHub
+
+---
+
+## 🚀 Goals
+
+- Build practical software projects
+- Strengthen programming fundamentals
+- Master OOP and Data Structures
+- Improve problem-solving skills
+- Learn through building and experimentation
+- Contribute to open-source projects
+
+---
+
+## 💡 My Learning Approach
+
+> I like solving problems myself first, then looking up better approaches and improving my solution.
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=M-Shariq1&theme=darkhub&no-frame=true&margin-w=8)
+
+---
+
+## 📊 GitHub Stats
+
+![Shariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Shariq1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=M-Shariq1&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Shariq1&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itx_ali.saeed)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574650575637)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisaeedse1@gmail.com)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=M-Shariq1&style=flat-square)
+
+---
+
+⭐ Thanks for visiting my profile!
