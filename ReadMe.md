@@ -59,17 +59,17 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=M-Shariq1&theme=darkhub&no-frame=true&margin-w=8)
+<img src="./profile/trophy.svg" alt="GitHub Trophies" />
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Shariq1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=M-Shariq1&theme=dark&hide_border=true)
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Shariq1&layout=compact&theme=dark&hide_border=true)
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 ---
 
