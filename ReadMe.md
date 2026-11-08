@@ -1,72 +1,123 @@
 <div align="center">
 
-# Hi, I'm Shariq 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Hi,%20I'm%20Shariq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=BSCS+Student+at+Minhaj+University+Lahore;Learning+C%2B%2B%2C+Python%2C+JavaScript+%26+SQL;Building+Projects+%7C+Solving+Problems;Always+Debugging+Something+%F0%9F%98%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BSCS+Student+at+Minhaj+University+Lahore;Learning+C%2B%2B%2C+Python%2C+JavaScript+%26+SQL;Building+Projects+%7C+Solving+Problems;Always+Debugging+Something+%F0%9F%98%85" alt="Typing SVG" />
 
-</div>
+<br/>
 
----
 
-### 🧑‍💻 About Me
 
-I'm a Computer Science student who likes figuring things out the hard way first — solve it myself, then go looking for a better approach and refine it. Right now I'm deep into OOP, Data Structures & Algorithms, Database Design, and just generally getting comfortable building real, working software instead of textbook examples.
+![Profile Views](https://komarev.com/ghpvc/?username=M-Shariq1&style=for-the-badge&color=0ea5e9)
 
-- 🎓 BSCS Student at **Minhaj University Lahore**
-- 🔭 Practicing **OOP, DSA, Database Design, and Problem Solving**
-- 🚀 Interested in **Software Development, Databases, and practical projects**
-- 🌱 Learning by **building and experimenting**, not just reading
 
----
 
-<div align="center">
 
-### 🛠️ Tech Stack
+![Followers](https://img.shields.io/github/followers/M-Shariq1?style=for-the-badge&logo=github&color=0ea5e9)
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,mysql,git,github,vscode&theme=dark" />
+
 
 </div>
 
 ---
 
-### 🎯 Goals
+## 🧑‍💻 About Me
 
-- Build practical software projects
-- Strengthen programming fundamentals
-- Master OOP and Data Structures
-- Improve problem-solving skills
-- Contribute to open-source projects
+I like figuring things out the hard way first: solve it myself, then hunt for a better approach and refine it. I'm focused on building real, working software instead of textbook examples.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education
+**BSCS** · Minhaj University Lahore
+
+### 🔭 Currently Practicing
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Design
+- Problem Solving
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Interests
+- Software Development
+- Databases
+- Practical, hands-on projects
+
+### 🌱 How I Learn
+Build → break → debug → refine
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 🛠️ Tech Stack
+
 <div align="center">
 
-### 🏆 GitHub Trophies
+<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,mysql,git,github,vscode&theme=dark" alt="Tech Stack" />
 
-<img src="https://github-trophies.vercel.app/?username=M-Shariq1&theme=onedark&no-frame=true&row=1&column=6" />
+</div>
 
-### 📊 GitHub Stats
+---
 
-<img src="./profile/stats.svg" alt="GitHub Stats" />
+## 🎯 Goals
+
+| | |
+|---|---|
+| 🏗️ Build practical software projects | 🧱 Strengthen programming fundamentals |
+| 🧬 Master OOP and Data Structures | 🧩 Improve problem-solving skills |
+| 🌍 Contribute to open-source | |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=M-Shariq1&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
+
+<br/><br/>
+
+<img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
+<img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
+
+<br/>
+
 <img src="./profile/streak.svg" alt="GitHub Streak" />
-<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
 ---
 
+## 🌐 Let's Connect
+
 <div align="center">
 
-### 🌐 Connect With Me
+[
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itx_ali.saeed)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574650575637)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisaeedse1@gmail.com)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-📫 Always open to collaborate on interesting projects — feel free to reach out!
+](https://instagram.com/itx_ali.saeed)
+[
 
-![Profile Views](https://komarev.com/ghpvc/?username=M-Shariq1&style=flat-square)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
+](https://www.facebook.com/profile.php?id=61574650575637)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:alisaeedse1@gmail.com)
+
+📫 Always open to collaborating on interesting projects, so reach out!
 
 ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
