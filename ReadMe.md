@@ -89,9 +89,9 @@ Build → break → debug → refine
 
 <div align="center">
 
-<a href="https://instagram.com/itx_ali.saeed"><img src="./profile/btn-instagram.svg" width="150" alt="Instagram" /></a>
-<a href="https://www.facebook.com/profile.php?id=61574650575637"><img src="./profile/btn-facebook.svg" width="150" alt="Facebook" /></a>
-<a href="mailto:alisaeedse1@gmail.com"><img src="./profile/btn-email.svg" width="150" alt="Email" /></a>
+<a href="https://instagram.com/itx_ali.saeed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=61574650575637"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge" alt="Facebook" /></a>
+<a href="mailto:alisaeedse1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email" /></a>
 
 <p>📫 Always open to collaborating on interesting projects, so reach out!</p>
 
