@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=M-Shariq1&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=M-Shariq1&label=Views&style=flat-square&color=0ea5e9" alt="Profile Views" />
 
 </div>
 
@@ -89,9 +89,9 @@ Build → break → debug → refine
 
 <div align="center">
 
-<a href="https://instagram.com/itx_ali.saeed"><img src="https://img.shields.io/badge/Instagram-1f2937?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.facebook.com/profile.php?id=61574650575637"><img src="https://img.shields.io/badge/Facebook-1f2937?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="mailto:alisaeedse1@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://instagram.com/itx_ali.saeed"><img src="./profile/btn-instagram.svg" width="150" alt="Instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=61574650575637"><img src="./profile/btn-facebook.svg" width="150" alt="Facebook" /></a>
+<a href="mailto:alisaeedse1@gmail.com"><img src="./profile/btn-email.svg" width="150" alt="Email" /></a>
 
 <p>📫 Always open to collaborating on interesting projects, so reach out!</p>
 
