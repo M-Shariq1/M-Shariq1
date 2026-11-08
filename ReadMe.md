@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Hi,%20I'm%20Shariq&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BSCS%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-<p><b>BSCS Student at Minhaj University Lahore</b> · C++ · Python · JS · SQL</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=520&height=40&lines=BSCS+Student+at+Minhaj+University+Lahore;Learning+C%2B%2B%2C+Python%2C+JS+%26+SQL;Always+Debugging+Something+%F0%9F%98%85" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=M-Shariq1&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
 
@@ -87,9 +89,9 @@ Build → break → debug → refine
 
 <div align="center">
 
-<a href="https://instagram.com/itx_ali.saeed"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat&logo=instagram&logoColor=E4405F&labelColor=161b22&color=161b22" height="34" alt="Instagram" /></a>
-<a href="https://www.facebook.com/profile.php?id=61574650575637"><img src="https://img.shields.io/badge/Facebook-161b22?style=flat&logo=facebook&logoColor=1877F2&labelColor=161b22&color=161b22" height="34" alt="Facebook" /></a>
-<a href="mailto:alisaeedse1@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat&logo=gmail&logoColor=EA4335&labelColor=161b22&color=161b22" height="34" alt="Email" /></a>
+<a href="https://instagram.com/itx_ali.saeed"><img src="https://img.shields.io/badge/Instagram-1f2937?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=61574650575637"><img src="https://img.shields.io/badge/Facebook-1f2937?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="mailto:alisaeedse1@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <p>📫 Always open to collaborating on interesting projects, so reach out!</p>
 
