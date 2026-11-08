@@ -6,16 +6,7 @@
 
 <br/>
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=M-Shariq1&style=for-the-badge&color=0ea5e9)
-
-
-
-
-![Followers](https://img.shields.io/github/followers/M-Shariq1?style=for-the-badge&logo=github&color=0ea5e9)
-
-
+<img src="https://komarev.com/ghpvc/?username=M-Shariq1&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
 
 </div>
 
@@ -98,25 +89,13 @@ Build → break → debug → refine
 
 <div align="center">
 
-[
+<a href="https://instagram.com/itx_ali.saeed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=61574650575637"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="mailto:alisaeedse1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<p>📫 Always open to collaborating on interesting projects, so reach out!</p>
 
-](https://instagram.com/itx_ali.saeed)
-[
-
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-
-](https://www.facebook.com/profile.php?id=61574650575637)
-[
-
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:alisaeedse1@gmail.com)
-
-📫 Always open to collaborating on interesting projects, so reach out!
-
-⭐ Thanks for visiting my profile!
+<p>⭐ Thanks for visiting my profile!</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=100&section=footer" width="100%" alt="Footer" />
 
